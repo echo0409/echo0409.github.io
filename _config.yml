@@ -1,5 +1,5 @@
 # Site settings
-title: weiyake12
+title: weiyake
 #baseurl: "/weiyake"
 #baseurl: <link rel="stylesheet" href={{ "/assets/css/main.css" | relative_url }}>
 url: "https://echo0409.github.io"
@@ -20,7 +20,7 @@ social:
   dribbble:
   #facebook: Test
   flickr:
-  github: kssim
+  github: echo0409
   google_plus:
   instagram:
   keybase:
@@ -51,8 +51,8 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
+#permalink: /:year-:month-:day/:title
+#paginate_path: "/portfolio/page:num/"
 paginate: 5
 exclude:
   - "Gemfile"
