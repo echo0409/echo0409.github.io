@@ -3,7 +3,7 @@ layout: about
 ---
 
 # About Me
-Hello
+Hello, my name is Wei Yake.
 For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
 I wrote "about me", "career", and "interests" on this page as an example.  
 
