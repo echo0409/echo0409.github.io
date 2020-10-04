@@ -1,6 +1,6 @@
 # Site settings
-title: weiyake1
-baseurl: "/weiyake"
+title: weiyake12
+#baseurl: "/weiyake"
 #baseurl: <link rel="stylesheet" href={{ "/assets/css/main.css" | relative_url }}>
 url: "https://echo0409.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
