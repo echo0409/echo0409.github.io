@@ -3,7 +3,7 @@ layout: about
 ---
 
 ## About Me
-Hello, my name is **Wei Yake**. I am a senior student of University of Electronic Science and Technology of China, majoring in Computer Science and Technology. In the next year, I will continue my study in Gaoling School of Artificial Intelligence, Renmin University of China. You can contact me through: **weiyake[at]std.uestc.edu.cn**.
+Hello, my name is **Wei Yake**. I am a senior student of University of Electronic Science and Technology of China, majoring in Computer Science and Technology. In the next year, I will continue my study in Gaoling School of Artificial Intelligence, Renmin University of China as a Phd student. You can contact me through: **weiyake[at]std.uestc.edu.cn**.
 
 
 
