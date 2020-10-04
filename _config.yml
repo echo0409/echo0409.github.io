@@ -1,6 +1,7 @@
 # Site settings
 title: weiyake
-baseurl: "/weiyake"
+#baseurl: "/weiyake"
+baseurl: "https://echo0409.github.io"
 url: "https://echo0409.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
