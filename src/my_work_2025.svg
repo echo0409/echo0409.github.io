@@ -159,192 +159,189 @@
       </g>
       <g
          id="g84"
+         transform="matrix(0.24,0,0,0.24,101.8466,-151.72)" />
+      <g
+         id="g86"
          transform="matrix(0.24,0,0,0.24,105.9716,-151.72)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text88"><tspan
-             x="0 34.893749 69.787498"
+           id="text90"><tspan
+             x="0 34.893749 69.787498 86.993752 135.45 156.28125 191.175"
              y="0"
-             id="tspan86">22 </tspan></text>
+             id="tspan88">22 Oral</tspan></text>
       </g>
       <g
-         id="g90"
-         transform="matrix(0.24,0,0,0.24,126.8466,-151.72)">
-        <text
-           xml:space="preserve"
-           transform="matrix(1,0,0,-1,0,1770)"
-           style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text94"><tspan
-             x="0 48.4375 69.25 104.125"
-             y="0"
-             id="tspan92">Oral</tspan></text>
-      </g>
-      <g
-         id="g96"
+         id="g92"
          transform="matrix(0.24,0,0,0.24,155.2216,-151.72)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text100"><tspan
+           id="text96"><tspan
              x="0"
              y="0"
-             id="tspan98">)</tspan></text>
+             id="tspan94">)</tspan></text>
       </g>
       <path
          d="M 9.263307,243.3712 H 207.2822 V 181.5735 H 9.263307 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path102" />
+         id="path98" />
       <g
-         id="g104"
+         id="g100"
          transform="matrix(0.24,0,0,0.24,28.40024,-199.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text108"><tspan
+           id="text104"><tspan
              x="0 34.893749 69.787498 104.68125 125.5125 160.40625 174.46875 209.3625 244.25626 261.44376 275.50626 327.58749 362.48126 397.375 411.4375 446.33124 481.22501 512.47498 547.36877 564.55627 599.45001 634.34375 665.59375"
              y="0"
-             id="tspan106">Learning imbalance has </tspan></text>
+             id="tspan102">Learning imbalance has </tspan></text>
       </g>
       <g
-         id="g110"
+         id="g106"
          transform="matrix(0.24,0,0,0.24,23.83524,-217.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text114"><tspan
+           id="text110"><tspan
              x="0 31.25 66.143753 118.225 153.11874 167.18124"
              y="0"
-             id="tspan112">sample</tspan></text>
+             id="tspan108">sample</tspan></text>
       </g>
       <g
-         id="g116"
+         id="g112"
          transform="matrix(0.24,0,0,0.24,72.33524,-217.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text120"><tspan
+           id="text116"><tspan
              x="0"
              y="0"
-             id="tspan118">-</tspan></text>
+             id="tspan114">-</tspan></text>
       </g>
       <g
-         id="g122"
+         id="g118"
          transform="matrix(0.24,0,0,0.24,77.33523,-217.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text126"><tspan
+           id="text122"><tspan
              x="0 14.0625 48.956249 80.206253 115.1 129.16251 146.35001 181.24374 195.30624 226.55624 257.80624 278.63751 313.53125 348.42499 383.31876 418.21249 449.46249 480.71249"
              y="0"
-             id="tspan124">level discrepancy </tspan></text>
+             id="tspan120">level discrepancy </tspan></text>
       </g>
       <g
-         id="g128"
+         id="g124"
          transform="matrix(0.24,0,0,0.24,71.96024,-235.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text132"><tspan
+           id="text128"><tspan
              x="0"
              y="0"
-             id="tspan130">(</tspan></text>
+             id="tspan126">(</tspan></text>
       </g>
       <g
-         id="g134"
+         id="g130"
          transform="matrix(0.24,0,0,0.24,76.96023,-235.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text138"><tspan
+           id="text134"><tspan
              x="0 45.3125 87 128.6875"
              y="0"
-             id="tspan136">CVPR</tspan></text>
+             id="tspan132">CVPR</tspan></text>
       </g>
       <g
-         id="g140"
+         id="g136"
+         transform="matrix(0.24,0,0,0.24,118.7102,-235.96)" />
+      <g
+         id="g138"
          transform="matrix(0.24,0,0,0.24,122.8352,-235.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text144"><tspan
+           id="text142"><tspan
              x="0 34.893749"
              y="0"
-             id="tspan142">24</tspan></text>
+             id="tspan140">24</tspan></text>
       </g>
       <g
-         id="g146"
+         id="g144"
          transform="matrix(0.24,0,0,0.24,139.5852,-235.96)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text150"><tspan
+           id="text148"><tspan
              x="0"
              y="0"
-             id="tspan148">)</tspan></text>
+             id="tspan146">)</tspan></text>
       </g>
       <path
          d="M 9.263307,161.3458 H 208.4935 V 99.54813 H 9.263307 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path152" />
+         id="path150" />
       <g
-         id="g154"
+         id="g152"
          transform="matrix(0.24,0,0,0.24,37.8159,-282.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text158"><tspan
+           id="text156"><tspan
              x="0 45.3125 80.1875 94.25 146.3125 181.1875 216.0625 250.9375 265 282.1875 296.25 331.125 348.3125 383.1875 404 456.0625 490.9375 508.125 522.1875 557.0625 591.9375"
              y="0"
-             id="tspan156">Unimodal information </tspan></text>
+             id="tspan154">Unimodal information </tspan></text>
       </g>
       <g
-         id="g160"
+         id="g158"
          transform="matrix(0.24,0,0,0.24,16.9409,-300.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text164"><tspan
+           id="text162"><tspan
              x="0 34.893749 66.143753 101.0375 135.93124 149.99374 181.24374 195.30624 212.49374 226.55624 261.45001 296.34375 313.53125 348.42499 383.31876 414.56876 431.75626 466.64999 480.71249 511.96249 543.21252 564.04376 598.9375 633.83124 668.72498 703.61877 734.86877 766.11877"
              y="0"
-             id="tspan162">acquisition has discrepancy </tspan></text>
+             id="tspan160">acquisition has discrepancy </tspan></text>
       </g>
       <g
-         id="g166"
+         id="g164"
          transform="matrix(0.24,0,0,0.24,72.5659,-318.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text170"><tspan
+           id="text168"><tspan
              x="0"
              y="0"
-             id="tspan168">(</tspan></text>
+             id="tspan166">(</tspan></text>
       </g>
       <g
-         id="g172"
+         id="g170"
          transform="matrix(0.24,0,0,0.24,77.5659,-318.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text176"><tspan
+           id="text174"><tspan
              x="0 45.3125 87 128.6875"
              y="0"
-             id="tspan174">CVPR</tspan></text>
+             id="tspan172">CVPR</tspan></text>
       </g>
+      <g
+         id="g176"
+         transform="matrix(0.24,0,0,0.24,119.3159,-318.04)" />
       <g
          id="g178"
          transform="matrix(0.24,0,0,0.24,123.4409,-318.04)">
@@ -511,196 +508,193 @@
       </g>
       <g
          id="g260"
+         transform="matrix(0.24,0,0,0.24,513.2293,-133.24)" />
+      <g
+         id="g262"
          transform="matrix(0.24,0,0,0.24,517.3543,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text264"><tspan
-             x="0 34.893749 69.787498"
+           id="text266"><tspan
+             x="0 34.893749 69.787498 86.993752 135.45 156.28125 191.175"
              y="0"
-             id="tspan262">22 </tspan></text>
+             id="tspan264">22 Oral</tspan></text>
       </g>
       <g
-         id="g266"
-         transform="matrix(0.24,0,0,0.24,538.2293,-133.24)">
-        <text
-           xml:space="preserve"
-           transform="matrix(1,0,0,-1,0,1770)"
-           style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text270"><tspan
-             x="0 48.4375 69.25 104.125"
-             y="0"
-             id="tspan268">Oral</tspan></text>
-      </g>
-      <g
-         id="g272"
+         id="g268"
          transform="matrix(0.24,0,0,0.24,566.6042,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text276"><tspan
+           id="text272"><tspan
              x="0"
              y="0"
-             id="tspan274">)</tspan></text>
+             id="tspan270">)</tspan></text>
       </g>
       <g
-         id="g278"
+         id="g274"
+         transform="matrix(0.24,0,0,0.24,571.6043,-133.24)" />
+      <g
+         id="g276"
          transform="matrix(0.24,0,0,0.24,575.7293,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text282"><tspan
+           id="text280"><tspan
              x="0 34.893749 69.787498 104.68125 121.8875 156.78125"
              y="0"
-             id="tspan280">and bi</tspan></text>
+             id="tspan278">and bi</tspan></text>
       </g>
       <g
-         id="g284"
+         id="g282"
          transform="matrix(0.24,0,0,0.24,616.7293,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text288"><tspan
+           id="text286"><tspan
              x="0"
              y="0"
-             id="tspan286">-</tspan></text>
+             id="tspan284">-</tspan></text>
       </g>
       <g
-         id="g290"
+         id="g288"
          transform="matrix(0.24,0,0,0.24,263.4793,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text294"><tspan
+           id="text292"><tspan
              x="0 34.893749 48.956249 69.787498 104.68125 135.93124 153.11874 167.18124 202.075 236.96875 271.86249 285.92499 303.11249 355.19376 390.08749 424.98126 459.875 473.9375 508.83124 526.01874 540.08124 574.97498 609.86877 627.05627"
              y="0"
-             id="tspan292">directional modulation (</tspan></text>
+             id="tspan290">directional modulation (</tspan></text>
       </g>
       <g
-         id="g296"
+         id="g294"
          transform="matrix(0.24,0,0,0.24,418.9793,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text300"><tspan
+           id="text298"><tspan
              x="0"
              y="0"
-             id="tspan298">T</tspan></text>
+             id="tspan296">T</tspan></text>
       </g>
       <g
-         id="g302"
+         id="g300"
          transform="matrix(0.24,0,0,0.24,426.7293,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text306"><tspan
+           id="text304"><tspan
              x="0"
              y="0"
-             id="tspan304">-</tspan></text>
+             id="tspan302">-</tspan></text>
       </g>
       <g
-         id="g308"
+         id="g306"
          transform="matrix(0.24,0,0,0.24,431.7293,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text312"><tspan
+           id="text310"><tspan
              x="0 37.018749 78.662498 130.74374 147.95 165.15625 200.05"
              y="0"
-             id="tspan310">PAMI 24</tspan></text>
+             id="tspan308">PAMI 24</tspan></text>
       </g>
       <g
-         id="g314"
+         id="g312"
          transform="matrix(0.24,0,0,0.24,488.1143,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text318"><tspan
+           id="text316"><tspan
              x="0 20.831249 38.018749 55.206249 103.64375 124.475 141.66251 172.91251 207.80624 242.7 273.95001 288.01251 322.90625 357.79999 378.63126 392.69376 427.58749 462.48126 479.66876 496.85626 531.75 566.64374"
              y="0"
-             id="tspan316">); Or considering the </tspan></text>
+             id="tspan314">); Or considering the </tspan></text>
       </g>
       <g
-         id="g320"
+         id="g318"
          transform="matrix(0.24,0,0,0.24,263.4793,-169.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text324"><tspan
+           id="text322"><tspan
              x="0 14.0625 48.956249 66.143753 86.974998 101.0375 135.93124 167.18124 181.24374 212.49374 229.68124 243.74374 257.80624 309.88751 323.95001 341.13751 376.03125 393.21875 407.28125 442.17499 477.06876 494.25626 539.56873 553.63123 570.81873 605.71252 619.77502 654.66876 671.85626 723.9375 758.83124 793.72498 828.61877 842.68127 856.74377 873.93127 887.99377 922.88751 954.13751 971.32501 988.51251 1023.4062 1044.2375 1079.1312 1114.025 1145.275 1162.4625 1179.65 1214.5437 1249.4375 1266.625 1287.4563 1322.35 1336.4125 1350.475 1385.3688 1420.2625 1451.5125 1486.4062"
              y="0"
-             id="tspan322">intrinsic limitation within modalities, break the reliance </tspan></text>
+             id="tspan320">intrinsic limitation within modalities, break the reliance </tspan></text>
       </g>
       <g
-         id="g326"
+         id="g324"
          transform="matrix(0.24,0,0,0.24,263.4793,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text330"><tspan
+           id="text328"><tspan
              x="0 34.893749 69.787498 86.974998 121.86875 142.7 177.59375 194.78125 229.675 250.50626 271.33749 306.23126 341.125 358.3125 410.39374 445.28751 480.18124 515.07501 529.13751 543.20001 560.38751 591.63751 608.82501 643.71875 674.96875 692.15625 723.40625 758.29999 775.48749 792.67499 809.86249 830.69373"
              y="0"
-             id="tspan328">on preferred modality by soft re</tspan></text>
+             id="tspan326">on preferred modality by soft re</tspan></text>
       </g>
       <g
-         id="g332"
+         id="g330"
          transform="matrix(0.24,0,0,0.24,471.2293,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text336"><tspan
+           id="text334"><tspan
              x="0"
              y="0"
-             id="tspan334">-</tspan></text>
+             id="tspan332">-</tspan></text>
       </g>
       <g
-         id="g338"
+         id="g336"
          transform="matrix(0.24,0,0,0.24,476.2293,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text342"><tspan
+           id="text340"><tspan
              x="0 14.0625 48.9375 83.8125 104.625 139.5 153.5625 188.4375 223.3125 240.5"
              y="0"
-             id="tspan340">learning (</tspan></text>
+             id="tspan338">learning (</tspan></text>
       </g>
       <g
-         id="g344"
+         id="g342"
          transform="matrix(0.24,0,0,0.24,538.9793,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text348"><tspan
+           id="text346"><tspan
              x="0 41.668751 86.962502 132.25626 173.925 191.09375 226.0125"
              y="0"
-             id="tspan346">ECCV 24</tspan></text>
+             id="tspan344">ECCV 24</tspan></text>
       </g>
       <g
-         id="g350"
+         id="g348"
          transform="matrix(0.24,0,0,0.24,601.6043,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text354"><tspan
+           id="text352"><tspan
              x="0 20.831249"
              y="0"
-             id="tspan352">).</tspan></text>
+             id="tspan350">).</tspan></text>
       </g>
+      <g
+         id="g354"
+         transform="matrix(0.24,0,0,0.24,610.7293,-187.24)" />
       <g
          id="g356"
          transform="matrix(0.24,0,0,0.24,614.8543,-187.24)">
@@ -1083,291 +1077,291 @@
       </g>
       <g
          id="g546"
-         transform="matrix(0.24,0,0,0.24,506.6042,-363.16)" />
-      <g
-         id="g548"
          transform="matrix(0.24,0,0,0.24,510.7292,-363.16)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text552"><tspan
+           id="text550"><tspan
              x="0 14.0625 66.143753 101.0375 121.86875 156.7625 188.0125 222.90625"
              y="0"
-             id="tspan550">improve </tspan></text>
+             id="tspan548">improve </tspan></text>
       </g>
       <g
-         id="g554"
+         id="g552"
          transform="matrix(0.24,0,0,0.24,263.4793,-381.16)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text558"><tspan
+           id="text556"><tspan
              x="0 52.081249 86.974998 101.0375 118.225 132.28751 184.36874 219.2625 254.15625 289.04999 303.11249 320.29999 341.13126 376.02499 410.91876 445.8125 477.0625 494.25 529.14374 564.03748 595.28748 626.53748 643.72498 678.61877 709.86877 727.05627 744.24377 779.13751 799.96875 834.86249 869.75623 886.94373 921.83752 956.73126 973.91876 1008.8125 1043.7063 1074.9563 1089.0188 1123.9125 1158.8063 1193.7 1228.5938 1245.7812 1259.8438 1294.7375 1329.6312 1350.4625 1385.3562 1399.4187 1434.3125 1469.2063"
              y="0"
-             id="tspan556">multimodal robustness by targeted designed learning </tspan></text>
+             id="tspan554">multimodal robustness by targeted designed learning </tspan></text>
       </g>
       <g
-         id="g560"
+         id="g558"
          transform="matrix(0.24,0,0,0.24,263.4793,-399.16)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text564"><tspan
+           id="text562"><tspan
              x="0 34.893749 69.787498 83.849998 118.74375 149.99374 167.18124 181.24374 212.49374 247.3875 264.57501"
              y="0"
-             id="tspan562">objective (</tspan></text>
+             id="tspan560">objective (</tspan></text>
       </g>
       <g
-         id="g566"
+         id="g564"
          transform="matrix(0.24,0,0,0.24,331.9793,-399.16)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text570"><tspan
+           id="text568"><tspan
              x="0 17.1875 62.5 97.375 142.6875 159.875 194.75"
              y="0"
-             id="tspan568">ICLR 24</tspan></text>
+             id="tspan566">ICLR 24</tspan></text>
       </g>
       <g
-         id="g572"
+         id="g570"
          transform="matrix(0.24,0,0,0.24,387.1043,-399.16)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text576"><tspan
+           id="text574"><tspan
              x="0 20.831249"
              y="0"
-             id="tspan574">).</tspan></text>
+             id="tspan572">).</tspan></text>
       </g>
       <path
          d="m 219.5942,279.1179 v 9.106 h -13.6038 v 18.212 h 13.6038 v 9.106 l 13.6039,-18.212 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path578" />
+         id="path576" />
       <path
          d="m 219.6291,192.2819 v 9.106 h -13.6039 v 18.212 h 13.6039 v 9.106 l 13.6038,-18.212 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path580" />
+         id="path578" />
       <path
          d="m 222.0385,112.6186 v 9.106 h -13.6039 v 18.212 h 13.6039 v 9.106 l 13.6038,-18.212 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path582" />
+         id="path580" />
       <path
          d="M 673.4487,328.1875 H 968.7358 V 230.0383 H 673.4487 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path584" />
+         id="path582" />
       <g
-         id="g586"
+         id="g584"
          transform="matrix(0.24,0,0,0.24,680.6487,-115.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text590"><tspan
+           id="text588"><tspan
              x="0 52.081249 86.974998 121.86875 156.7625 170.825 184.8875 202.075 233.325 250.5125 295.82501 330.71875 365.61249 400.50626 435.39999 456.23126 491.125 508.3125 522.375 557.26874"
              y="0"
-             id="tspan588">Modality Cooperation</tspan></text>
+             id="tspan586">Modality Cooperation</tspan></text>
       </g>
       <path
          d="m 680.6487,308.5875 h 47.3333 47.3334 47.3333 v -1 H 775.3154 727.982 680.6487 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path592" />
+         id="path590" />
       <g
-         id="g594"
+         id="g592"
          transform="matrix(0.24,0,0,0.24,822.7737,-115.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text598"><tspan
+           id="text596"><tspan
              x="0 17.1875 34.375 51.5625 86.456253 117.70625 152.60001 166.66251 187.49374 222.3875 257.28125 274.46875 309.36249 340.61249 357.79999 374.98749 409.88126 444.77499"
              y="0"
-             id="tspan596">: Inspired by the </tspan></text>
+             id="tspan594">: Inspired by the </tspan></text>
       </g>
       <g
-         id="g600"
+         id="g598"
          transform="matrix(0.24,0,0,0.24,680.6487,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text604"><tspan
+           id="text602"><tspan
              x="0 31.25 66.143753 101.0375 132.28751 167.18124 202.075 219.2625 236.45 271.34375 288.53125 305.71875 347.38751 382.28125 417.17499 452.06876 466.13126 501.02499"
              y="0"
-             id="tspan602">concept of Shapley</tspan></text>
+             id="tspan600">concept of Shapley</tspan></text>
       </g>
       <g
-         id="g606"
+         id="g604"
          transform="matrix(0.24,0,0,0.24,808.3987,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text610"><tspan
+           id="text608"><tspan
              x="0"
              y="0"
-             id="tspan608">-</tspan></text>
+             id="tspan606">-</tspan></text>
       </g>
       <g
-         id="g612"
+         id="g610"
          transform="matrix(0.24,0,0,0.24,813.3987,-133.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text616"><tspan
+           id="text614"><tspan
              x="0 31.25 66.143753 80.206253 115.1 149.99374 167.18124 184.36874 219.2625 240.09375 274.98749 309.88126 344.77499 376.02499 410.91876 428.10626 445.29376 480.1875"
              y="0"
-             id="tspan614">value, propose to </tspan></text>
+             id="tspan612">value, propose to </tspan></text>
       </g>
       <g
-         id="g618"
+         id="g616"
          transform="matrix(0.24,0,0,0.24,680.6487,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text622"><tspan
+           id="text620"><tspan
              x="0 34.893749 66.143753 101.0375 115.1 149.99374 184.8875 202.075 236.96875 254.15625 289.04999 323.94376 358.83749 376.02499 407.27499 424.46249 445.29376 480.1875 515.08124 549.97498 567.16248 602.05627 636.95001 671.84375 689.03125 706.21875 741.11249 776.00623 793.19373 810.38123 824.44373 859.33752"
              y="0"
-             id="tspan620">evaluate and strengthen the fine</tspan></text>
+             id="tspan618">evaluate and strengthen the fine</tspan></text>
       </g>
       <g
-         id="g624"
+         id="g622"
          transform="matrix(0.24,0,0,0.24,895.2737,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text628"><tspan
+           id="text626"><tspan
              x="0"
              y="0"
-             id="tspan626">-</tspan></text>
+             id="tspan624">-</tspan></text>
       </g>
       <g
-         id="g630"
+         id="g628"
          transform="matrix(0.24,0,0,0.24,900.2737,-151.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text634"><tspan
+           id="text632"><tspan
              x="0 34.893749 55.724998 90.618752 104.7 139.59375 174.4875 209.38126"
              y="0"
-             id="tspan632">grained </tspan></text>
+             id="tspan630">grained </tspan></text>
       </g>
       <g
-         id="g636"
+         id="g634"
          transform="matrix(0.24,0,0,0.24,680.6487,-169.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text640"><tspan
+           id="text638"><tspan
              x="0 31.25 66.143753 101.0375 135.93124 170.825 191.65625 226.55 243.7375 257.79999 292.69376 327.58749 344.77499 379.66876 431.75 466.64374 501.53751 536.43127 553.61877 605.70001 640.59375 675.48749 710.38123 724.44373 738.50623 755.69373 769.75623 804.65002 835.90002 853.08752 887.98126 905.16876 922.35626 953.60626 988.5 1040.5813 1075.475 1089.5375"
              y="0"
-             id="tspan638">cooperation among modalities at sample</tspan></text>
+             id="tspan636">cooperation among modalities at sample</tspan></text>
       </g>
       <g
-         id="g642"
+         id="g640"
          transform="matrix(0.24,0,0,0.24,950.5237,-169.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text646"><tspan
+           id="text644"><tspan
              x="0"
              y="0"
-             id="tspan644">-</tspan></text>
+             id="tspan642">-</tspan></text>
       </g>
       <g
-         id="g648"
+         id="g646"
          transform="matrix(0.24,0,0,0.24,680.6487,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text652"><tspan
+           id="text650"><tspan
              x="0 14.0625 48.956249 80.206253 115.1 129.16251 146.35001"
              y="0"
-             id="tspan650">level (</tspan></text>
+             id="tspan648">level (</tspan></text>
       </g>
       <g
-         id="g654"
+         id="g652"
          transform="matrix(0.24,0,0,0.24,720.7737,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text658"><tspan
+           id="text656"><tspan
              x="0 45.3125 87 128.6875 174 191.1875 226.0625"
              y="0"
-             id="tspan656">CVPR 24</tspan></text>
+             id="tspan654">CVPR 24</tspan></text>
       </g>
       <g
-         id="g660"
+         id="g658"
          transform="matrix(0.24,0,0,0.24,783.3987,-187.24)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text664"><tspan
+           id="text662"><tspan
              x="0 20.831249"
              y="0"
-             id="tspan662">).</tspan></text>
+             id="tspan660">).</tspan></text>
       </g>
       <path
          d="m 659.8455,251.8135 v 9.106 h -13.6039 v 18.212 h 13.6039 v 9.106 l 13.6038,-18.212 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path666" />
+         id="path664" />
       <path
          d="M 674.0547,212.375 H 968.7358 V 132.4016 H 674.0547 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path668" />
+         id="path666" />
       <g
-         id="g670"
+         id="g668"
          transform="matrix(0.24,0,0,0.24,681.2547,-230.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text674"><tspan
+           id="text672"><tspan
              x="0 41.668751 76.5625 111.45625 146.35001 167.18124 202.075 233.325 264.57501 299.46875 334.36249 351.54999 365.61249 400.50626 417.69376 452.58749 473.41876 525.5 560.39374 577.58124 591.64374 626.53748 661.43127 678.61877 713.51251 744.76251 779.65625 814.54999 828.61249 859.86249 873.92499 891.11249 905.17499 940.06873"
              y="0"
-             id="tspan672">Suppressed information acquisition</tspan></text>
+             id="tspan670">Suppressed information acquisition</tspan></text>
       </g>
       <path
          d="m 681.2547,192.775 h 58.5 58.5 58.5 58.5 v -1 h -58.5 -58.5 -58.5 -58.5 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path676" />
+         id="path674" />
       <g
-         id="g678"
+         id="g676"
          transform="matrix(0.24,0,0,0.24,915.2547,-230.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text682"><tspan
+           id="text680"><tspan
              x="0 17.1875"
              y="0"
-             id="tspan680">: </tspan></text>
+             id="tspan678">: </tspan></text>
       </g>
       <g
-         id="g684"
+         id="g682"
          transform="matrix(0.24,0,0,0.24,681.2547,-248.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text688"><tspan
+           id="text686"><tspan
              x="0 45.3125 62.5 76.5625 90.625 104.6875 135.9375 170.83125 188.01875 226.03751 240.10001 271.35001 306.24374 341.13751 361.96875 379.15625 396.34375 431.23749 448.42499 483.31876 504.14999 556.23126 591.125 608.3125 622.375 657.26874 692.16248 709.34998 761.43127 796.32501 813.51251 834.34375 848.40625 879.65625 896.84375 914.03125"
              y="0"
-             id="tspan686">Utilize Fisher Information Matrix to</tspan></text>
+             id="tspan684">Utilize Fisher Information Matrix to</tspan></text>
       </g>
+      <g
+         id="g688"
+         transform="matrix(0.24,0,0,0.24,909.0047,-248.92)" />
       <g
          id="g690"
          transform="matrix(0.24,0,0,0.24,913.1297,-248.92)">
@@ -1388,274 +1382,289 @@
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text700"><tspan
-             x="0 34.893749 69.787498 104.68125 121.86875 142.7 177.59375 208.84375 243.7375 274.98749 309.88126 330.71249 365.60626 400.5 417.6875 434.875 469.76874 504.66251 521.84998 556.74377 591.63751 643.71875 657.78125 692.67499 727.56873 744.75623 779.65002 814.54376 831.73126 845.79376 880.6875 897.875 932.76874 953.59998 1005.6813 1040.575 1057.7625 1071.825 1106.7188 1141.6125"
+             x="0 34.893749 69.787498 104.68125"
              y="0"
-             id="tspan698">and recovered the dominated information </tspan></text>
+             id="tspan698">and </tspan></text>
       </g>
       <g
          id="g702"
-         transform="matrix(0.24,0,0,0.24,681.2547,-284.92)">
+         transform="matrix(0.24,0,0,0.24,710.5047,-266.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text706"><tspan
-             x="0 34.893749 66.143753 101.0375 135.93124 149.99374 181.24374 195.30624 212.49374 226.55624 261.45001 296.34375 313.53125 348.42499 369.25626 404.14999 435.39999 470.29376 501.54376 532.79376"
+             x="0 20.831249 55.724998 86.974998 121.86875 153.11874 188.0125 208.84375"
              y="0"
-             id="tspan704">acquisition process </tspan></text>
+             id="tspan704">recover </tspan></text>
       </g>
       <g
          id="g708"
-         transform="matrix(0.24,0,0,0.24,813.2547,-284.92)">
+         transform="matrix(0.24,0,0,0.24,764.7547,-266.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text712"><tspan
-             x="0"
+             x="0 17.1875 52.0625 86.9375 104.125 139 173.875 225.9375 240 274.875 309.75 326.9375 361.8125 396.6875 413.875 427.9375 462.8125 480 514.875 535.6875 587.75 622.625 639.8125 653.875 688.75 723.625"
              y="0"
-             id="tspan710">(</tspan></text>
+             id="tspan710">the dominated information </tspan></text>
       </g>
       <g
          id="g714"
+         transform="matrix(0.24,0,0,0.24,681.2547,-284.92)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,0,1770)"
+           style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text718"><tspan
+             x="0 34.893749 66.143753 101.0375 135.93124 149.99374 181.24374 195.30624 212.49374 226.55624 261.45001 296.34375 313.53125 348.42499 369.25626 404.14999 435.39999 470.29376 501.54376 532.79376 549.98126"
+             y="0"
+             id="tspan716">acquisition process (</tspan></text>
+      </g>
+      <g
+         id="g720"
          transform="matrix(0.24,0,0,0.24,818.2547,-284.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text718"><tspan
+           id="text724"><tspan
              x="0 45.3125 87 128.6875 174 191.1875 226.0625"
              y="0"
-             id="tspan716">CVPR 25</tspan></text>
+             id="tspan722">CVPR 25</tspan></text>
       </g>
       <g
-         id="g720"
+         id="g726"
          transform="matrix(0.24,0,0,0.24,880.8797,-284.92)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text724"><tspan
+           id="text730"><tspan
              x="0 20.831249"
              y="0"
-             id="tspan722">).</tspan></text>
+             id="tspan728">).</tspan></text>
       </g>
       <path
          d="m 659.8455,147.6014 v 9.106 h -13.6039 v 18.212 h 13.6039 v 9.106 l 13.6038,-18.212 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path726" />
+         id="path732" />
       <path
          d="M 9.263307,77.33953 H 208.4935 V 15.54189 H 9.263307 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path728" />
+         id="path734" />
       <g
-         id="g730"
+         id="g736"
          transform="matrix(0.24,0,0,0.24,24.00343,-366.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text734"><tspan
+           id="text740"><tspan
              x="0 45.3125 80.1875 94.25 146.3125 181.1875 216.0625 250.9375 265 282.1875 317.0625 351.9375 386.8125 404 456.0625 490.9375 505 522.1875 536.25 588.3125 623.1875 658.0625 692.9375 707"
              y="0"
-             id="tspan732">Unimodal and multimodal </tspan></text>
+             id="tspan738">Unimodal and multimodal </tspan></text>
       </g>
       <g
-         id="g736"
+         id="g742"
          transform="matrix(0.24,0,0,0.24,27.87842,-384.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text740"><tspan
+           id="text746"><tspan
              x="0 34.893749 69.787498 83.849998 118.74375 149.99374 167.18124 181.24374 212.49374 247.3875 278.63751 295.82501 330.71875 365.61249 396.86249 431.75626 448.94376 480.19376 515.08752 549.98126 567.16876 581.23126 595.29376 626.54376 643.73126"
              y="0"
-             id="tspan738">objectives have conflicts</tspan></text>
+             id="tspan744">objectives have conflicts</tspan></text>
       </g>
       <g
-         id="g742"
+         id="g748"
          transform="matrix(0.24,0,0,0.24,75.63842,-402.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text746"><tspan
+           id="text752"><tspan
              x="0"
              y="0"
-             id="tspan744">(</tspan></text>
+             id="tspan750">(</tspan></text>
       </g>
       <g
-         id="g748"
+         id="g754"
          transform="matrix(0.24,0,0,0.24,80.63842,-402.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text752"><tspan
+           id="text758"><tspan
              x="0 17.1875 62.5 114.5625"
              y="0"
-             id="tspan750">ICML</tspan></text>
+             id="tspan756">ICML</tspan></text>
       </g>
       <g
-         id="g754"
+         id="g760"
+         transform="matrix(0.24,0,0,0.24,116.2434,-402.04)" />
+      <g
+         id="g762"
          transform="matrix(0.24,0,0,0.24,120.3684,-402.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text758"><tspan
+           id="text766"><tspan
              x="0 34.893749"
              y="0"
-             id="tspan756">24</tspan></text>
+             id="tspan764">24</tspan></text>
       </g>
       <g
-         id="g760"
+         id="g768"
          transform="matrix(0.24,0,0,0.24,137.1184,-402.04)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text764"><tspan
+           id="text772"><tspan
              x="0"
              y="0"
-             id="tspan762">)</tspan></text>
+             id="tspan770">)</tspan></text>
       </g>
       <path
          d="m 222.0385,28.61241 v 9.10601 h -13.6039 v 18.212 h 13.6039 v 9.10601 l 13.6038,-18.21201 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path766" />
+         id="path774" />
       <path
          d="M 674.0547,114.0607 H 968.7358 V 15.91152 H 674.0547 Z"
          style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         id="path768" />
+         id="path776" />
       <path
          d="m 681.2547,94.46073 h 55.3333 55.3333 55.3334 v -1 H 791.9213 736.588 681.2547 Z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path770" />
+         id="path778" />
       <g
-         id="g772"
+         id="g780"
          transform="matrix(0.24,0,0,0.24,681.2547,-329.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text776"><tspan
+           id="text784"><tspan
              x="0 45.3125 80.1875"
              y="0"
-             id="tspan774">Uni</tspan></text>
+             id="tspan782">Uni</tspan></text>
       </g>
       <g
-         id="g778"
+         id="g786"
          transform="matrix(0.24,0,0,0.24,703.8797,-329.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text782"><tspan
+           id="text790"><tspan
              x="0"
              y="0"
-             id="tspan780">-</tspan></text>
+             id="tspan788">-</tspan></text>
       </g>
       <g
-         id="g784"
+         id="g792"
          transform="matrix(0.24,0,0,0.24,708.8797,-329.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text788"><tspan
+           id="text796"><tspan
              x="0 17.1875 69.268753 104.1625 118.225 135.41251 149.47501 201.55624 236.45 271.34375 306.23749 320.29999 337.48749 382.79999 417.69376 452.58749 469.77499 483.83749 497.89999 529.15002 546.33752"
              y="0"
-             id="tspan786">/Multimodal Conflicts</tspan></text>
+             id="tspan794">/Multimodal Conflicts</tspan></text>
       </g>
       <g
-         id="g790"
+         id="g798"
          transform="matrix(0.24,0,0,0.24,847.5047,-329.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text794"><tspan
+           id="text802"><tspan
              x="0 17.1875 30.918751 72.587502 107.48125 142.375 156.4375 187.6875 204.875 222.0625 256.95624 291.85001"
              y="0"
-             id="tspan792">: Apply the </tspan></text>
+             id="tspan800">: Apply the </tspan></text>
       </g>
       <g
-         id="g796"
+         id="g804"
          transform="matrix(0.24,0,0,0.24,681.2547,-347.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text800"><tspan
+           id="text808"><tspan
              x="0 31.25 66.143753 101.0375 132.28751 167.18124 202.075 219.2625 236.45 271.34375 288.53125 305.71875 347.38751 382.28125 403.11249 438.00626 455.19376 490.08749 507.27499 542.16876 577.0625 594.25 608.3125 660.39374 695.28748 709.34998 723.41248 740.59998 771.84998 789.03748 806.22498 841.11877 858.30627 879.13751 914.03125 945.28125 980.17499 994.23749 1025.4875 1060.3812"
              y="0"
-             id="tspan798">concept of Pareto optimality to resolve </tspan></text>
+             id="tspan806">concept of Pareto optimality to resolve </tspan></text>
       </g>
       <g
-         id="g802"
+         id="g810"
          transform="matrix(0.24,0,0,0.24,681.2547,-365.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text806"><tspan
+           id="text814"><tspan
              x="0 31.25 66.143753 101.0375 118.225 132.28751 146.35001 177.60001 194.78751 226.03751 243.22501 278.11874 313.01251 330.20001 375.51251 410.40625 445.29999 480.19376 497.38126 532.27502 567.16876 581.23126 633.3125 668.20624 703.09998 737.99377 752.05627 769.24377 804.13751 839.03125 873.92499"
              y="0"
-             id="tspan804">conflicts between unimodal and </tspan></text>
+             id="tspan812">conflicts between unimodal and </tspan></text>
       </g>
       <g
-         id="g808"
+         id="g816"
          transform="matrix(0.24,0,0,0.24,681.2547,-383.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text812"><tspan
+           id="text820"><tspan
              x="0 52.081249 86.974998 101.0375 118.225 132.28751 184.36874 219.2625 254.15625 289.04999 303.11249 320.29999 355.19376 390.08749 404.14999 439.04376 470.29376 487.48126 501.54376 532.79376 567.6875 598.9375 616.125 633.3125 668.20624 699.45624 734.34998 748.41248 783.30627 797.36877 832.26251 867.15625 884.34375 919.23749 954.13123 989.02502 1023.9188 1041.1062 1055.1687 1086.4187 1121.3125"
              y="0"
-             id="tspan810">multimodal objectives, avoiding negative </tspan></text>
+             id="tspan818">multimodal objectives, avoiding negative </tspan></text>
       </g>
       <g
-         id="g814"
+         id="g822"
          transform="matrix(0.24,0,0,0.24,681.2547,-401.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text818"><tspan
+           id="text826"><tspan
              x="0 14.0625 66.143753 101.0375 135.93124 167.18124 184.36874 201.55624 236.45 253.6375 270.82501 305.71875 340.61249 354.67499 406.75626 441.64999 476.54376 511.4375 525.5 542.6875 577.58124 608.83124 640.08124 654.14374 685.39374 702.58124 737.47498 772.36877 803.61877 838.51251 855.70001"
              y="0"
-             id="tspan816">impact of unimodal assistance (</tspan></text>
+             id="tspan824">impact of unimodal assistance (</tspan></text>
       </g>
       <g
-         id="g820"
+         id="g828"
          transform="matrix(0.24,0,0,0.24,891.6297,-401.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-style:italic;font-variant:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:Arial-ItalicMT;writing-mode:lr-tb;fill:#c00000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text824"><tspan
+           id="text832"><tspan
              x="0 17.1875 62.5 114.5625 148.3125 165.5 200.375"
              y="0"
-             id="tspan822">ICML 24</tspan></text>
+             id="tspan830">ICML 24</tspan></text>
       </g>
       <g
-         id="g826"
+         id="g834"
          transform="matrix(0.24,0,0,0.24,948.1097,-401.32)">
         <text
            xml:space="preserve"
            transform="matrix(1,0,0,-1,0,1770)"
            style="font-variant:normal;font-weight:normal;font-size:62.5px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text830"><tspan
+           id="text838"><tspan
              x="0 20.831249"
              y="0"
-             id="tspan828">).</tspan></text>
+             id="tspan836">).</tspan></text>
       </g>
       <path
          d="m 659.8455,35.77611 v 9.10601 h -13.6039 v 18.212 h 13.6039 v 9.10601 l 13.6038,-18.21201 z"
          style="fill:#d9d9d9;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="path832" />
+         id="path840" />
     </g>
   </g>
 </svg>
