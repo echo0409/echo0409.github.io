@@ -331,11 +331,13 @@ span.highlight {
 
   .studies-table,
   .studies-table tbody,
+  .studies-heading-row,
   .study-tabs-row {
     display: block;
     width: 100%;
   }
 
+  .studies-heading-row td,
   .study-tabs-row td {
     display: block;
     width: 100%;
