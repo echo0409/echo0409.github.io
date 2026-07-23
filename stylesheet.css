@@ -94,6 +94,11 @@ heading {
   font-size: 22px;
 }
 
+.section-heading {
+  display: block;
+  margin: 0 0 12px;
+}
+
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
@@ -158,6 +163,13 @@ span.highlight {
   margin: 8px 0;
 }
 
+.research-interests-section .section-heading + p,
+.news-section .section-heading + #news-container p:first-child,
+.selected-honors .section-heading + .honor-item,
+.selected-talks .section-heading + .talk-category {
+  margin-top: 0;
+}
+
 .selected-honors .honor-item {
   margin: 7px 0;
 }
@@ -174,6 +186,10 @@ span.highlight {
 
 .selected-talks .talk-category {
   margin: 11px 0 6px;
+}
+
+.selected-talks-table {
+  margin-top: 1px;
 }
 
 .selected-talks .talk-category strong {
@@ -198,7 +214,7 @@ span.highlight {
 }
 
 .study-tabs-row td {
-  padding: 10px 20px 8px;
+  padding: 0 20px 8px;
 }
 
 .study-tabs {
