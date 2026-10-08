@@ -89,6 +89,25 @@ strong {
   font-size: 14px;
 }
 
+.profile-photo {
+  display: block;
+  width: 78%;
+  max-width: 220px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.profile-affiliation {
+  margin: 12px 0 0;
+  text-align: center;
+  font-size: 13px;
+  line-height: 1.65;
+}
+
+.profile-affiliation strong {
+  font-size: inherit;
+}
+
 .faculty-announcement {
   color: #3B7D23;
   font-weight: 700;
@@ -321,7 +340,8 @@ span.highlight {
   white-space: nowrap;
 }
 
-.study-oral-flag {
+.study-oral-flag,
+.study-highlight-flag {
   position: absolute;
   z-index: 2;
   top: 18px;
@@ -342,6 +362,19 @@ span.highlight {
   font-weight: 700;
   letter-spacing: 0.08em;
   line-height: 1;
+}
+
+.study-highlight-flag {
+  left: calc(50% + 44px);
+  width: 70px;
+  background: #6c4caf;
+  box-shadow: inset 0 3px 0 #50358a, inset 0 1px 0 rgba(255, 255, 255, 0.24), 0 3px 7px rgba(80, 53, 138, 0.22);
+  font-size: 8px;
+  letter-spacing: 0.04em;
+}
+
+.study-has-oral-flag .study-highlight-flag {
+  left: calc(50% - 6px);
 }
 
 @media (max-width: 600px) {
@@ -417,8 +450,17 @@ span.highlight {
     left: calc(50% - 150px);
   }
 
-  .study-oral-flag {
+  .study-oral-flag,
+  .study-highlight-flag {
     top: 12px;
     left: calc(50% + 104px);
+  }
+
+  .study-highlight-flag {
+    left: calc(50% + 76px);
+  }
+
+  .study-has-oral-flag .study-highlight-flag {
+    left: calc(50% + 26px);
   }
 }
